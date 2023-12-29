@@ -1,0 +1,7 @@
+/* styles.css */
+body {
+  /* Default background color */
+  background-color: #f0f0f0;
+}
+
+/* Additional styles can be added here */
